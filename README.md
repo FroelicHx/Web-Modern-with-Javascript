@@ -45,7 +45,7 @@ Segue capítulos do curso:
 - [x] Conceitos sobre Web
 - [x] HTML
 - [x] CSS
-- [ ] Integrando HTML, CSS e JS
+- [x] Integrando HTML, CSS e JS
 - [ ] Ajax
 - [ ] Gulp
 - [ ] Webpack
