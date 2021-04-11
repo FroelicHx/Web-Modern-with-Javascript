@@ -14,6 +14,7 @@
 ## :computer: Projetos realizados durante o curso
 
 **[Projeto: API com Express](https://github.com/SkinHx/api-with-express)**
+**[Projeto: Calculadora](https://github.com/SkinHx/IOS-web-calculator)**
 
 ---
 
@@ -52,7 +53,7 @@ Segue capítulos do curso:
 - [ ] JQuery
 - [ ] Bootstrap
 - [ ] Projeto Galeria (Bootstrap/jQuery/Webpack)
-- [ ] React
+- [x] React
 - [ ] Projeto Calculadora
 - [ ] Projeto Cadastro de Usuário
 - [ ] VueJS
