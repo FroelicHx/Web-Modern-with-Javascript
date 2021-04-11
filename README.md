@@ -13,7 +13,7 @@
 
 ## :computer: Projetos realizados durante o curso
 
-**[Projeto: API com Express](https://github.com/SkinHx/api-with-express)**
+**[Projeto: API com Express](https://github.com/SkinHx/api-with-express)** <br />
 **[Projeto: Calculadora](https://github.com/SkinHx/IOS-web-calculator)**
 
 ---
